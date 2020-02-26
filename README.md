@@ -1,10 +1,11 @@
-# ExpEvolutionSteering
+# Experimental Evolutionary Steering
 
 ## Exploiting evolutionary steering to induce collateral drug sensitivity in cancer
 
 Ahmet Acar*, Daniel Nichol*, Javier Fernandez-Mateos, George D. Cresswell, Iros Barozzi, Sung Pil Hong, Nicholas Trahearn, Inmaculada Spiteri, Mark Stubbs, Rosemary Burke, Adam Stewart, Giulio Caravagna, Benjamin Werner, Georgios Vlachogiannis, Carlo C. Maley, Luca Magnani, Nicola Valeri, Udai Banerji§, Andrea Sottoriva§.
 
 *equal contribution (AA: wet lab work, DN: dry lab work)
+
 §correspondence to udai.banerji@icr.ac.uk or andrea.sottoriva@icr.ac.uk
 
 Code was written by Daniel Nichol.
